@@ -1,7 +1,20 @@
-### Hi, I'm Jaydatt 👋
-💬 Get in touch...
-[![LinkedIn_icon_circle svg](https://github.com/jaydattpatel/jaydattpatel/assets/124486498/0ece6de4-6add-44e9-84e7-5b2b25a39e1f)](https://www.linkedin.com/in/jaydattpatel/)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jaydattpatel/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
+---
+
+### : On Self : About Me :
+I am Jaydatt from India.
 
 <!--
 **jaydattpatel/jaydattpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
