@@ -1,6 +1,6 @@
 ### Hi, I'm Jaydatt 👋
 💬 Get in touch...
-![LinkedIn_icon_circle svg][(https://github.com/jaydattpatel/jaydattpatel/assets/124486498/85b5c065-9ec4-4f7c-8e35-ae1707efd225)(https://www.linkedin.com/in/jaydattpatel/)]
+![[LinkedIn_icon_circle svg](https://github.com/jaydattpatel/jaydattpatel/assets/124486498/85b5c065-9ec4-4f7c-8e35-ae1707efd225)](https://www.linkedin.com/in/jaydattpatel/)
 
 
 <!--
