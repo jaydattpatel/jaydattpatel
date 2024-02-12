@@ -1,6 +1,7 @@
 ### Hi, I'm Jaydatt 👋
 💬 Get in touch...
-[![LinkedIn_icon_circle svg](https://github.com/jaydattpatel/jaydattpatel/assets/124486498/de64606f-d8a4-4133-808d-980147c94270)](https://www.linkedin.com/in/jaydattpatel/)
+[![LinkedIn_icon_circle svg](https://github.com/jaydattpatel/jaydattpatel/assets/124486498/0ece6de4-6add-44e9-84e7-5b2b25a39e1f)](https://www.linkedin.com/in/jaydattpatel/)
+
 
 <!--
 **jaydattpatel/jaydattpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
