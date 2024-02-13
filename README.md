@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW40eXJwOXYydHo2cmxkbm40eHdyY3V1YzRnZXU1bHB6eWJrNWF4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="350"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jaydattpatel/">
