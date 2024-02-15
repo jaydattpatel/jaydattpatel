@@ -6,6 +6,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<div id="badges" align="center">
+  <a href="https://gist.github.com/jaydattpatel">
+    <img src=![gist](https://github.com/jaydattpatel/jaydattpatel/assets/124486498/33b65b12-f794-4eb1-a939-a5d8f02f91d7) alt="LinkedIn Badge"/>
+  </a>
+</div>
 <h1 align="center">
   Hi, I'm Jaydatt Patel from India
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
