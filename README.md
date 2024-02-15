@@ -9,7 +9,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://gist.github.com/jaydattpatel">
-    <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/33b65b12-f794-4eb1-a939-a5d8f02f91d7/gist.png" width="350" alt="Gits GitHub"/>
+    <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/33b65b12-f794-4eb1-a939-a5d8f02f91d7/gist.png" width="50" alt="Gits GitHub"/>
   </a>
 </div>
 <h1 align="center">
