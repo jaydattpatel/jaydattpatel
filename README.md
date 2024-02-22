@@ -11,6 +11,7 @@
   </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jaydattpatel.jaydattpatel" alt="Visitor badge" width="100"/>
 </div>
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydattpatel&amp;layout=compact&amp;theme=monokai&amp;count_private=true" width="100">
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Hi, I'm Jaydatt Patel from India
