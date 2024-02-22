@@ -9,7 +9,7 @@
   <a href="https://gist.github.com/jaydattpatel">
     <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/33b65b12-f794-4eb1-a939-a5d8f02f91d7/gist.png" width="100" alt="Gits GitHub"/>
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jaydattpatel.jaydattpatel" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jaydattpatel.jaydattpatel" alt="Visitor badge" width="100"/>
 </div>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
