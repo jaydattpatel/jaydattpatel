@@ -15,8 +15,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Hi, I'm Jaydatt Patel from India
 </h1>
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydattpatel&amp;layout=compact&amp;theme=monokai&amp;count_private=true" width="300">
+<div id="stats" align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydattpatel&amp;layout=compact&amp;theme=monokai&amp;count_private=true" width="300">
 </div>
 
 
