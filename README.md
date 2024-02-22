@@ -1,10 +1,8 @@
 <div id="header">
   <a href="https://www.linkedin.com/in/jaydattpatel/">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFjZGozcTIzOWVhOW1zZ2NnNmt5azZicm9vOGJ6Y3V1Zmdvc2c4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydattpatel&amp;layout=compact&amp;theme=monokai&amp;count_private=true" width="300">
   </div>
-    <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydattpatel&amp;layout=compact&amp;theme=monokai&amp;count_private=true" width="500">
-    </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jaydattpatel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
