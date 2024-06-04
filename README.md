@@ -44,6 +44,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Hi, I'm Jaydatt Patel ...
+  <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/f638a46c-4b87-4316-88fc-b573dfe1f926" width="30px"/>
 </h1>
 
 
