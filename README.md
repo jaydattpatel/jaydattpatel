@@ -13,31 +13,37 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=jaydattpatel%2Fjaydattpatel&label=Visitors&countColor=%2337d67a" alt="Visitor badge" width="100" height="28"/>
 </div>
 
-  <div align="center">
+<style>
+  #repoLinks a{
+    margin: 3px;
+  }
+</style>
+
+  <div id="repoLinks" align="center">
     <a href='https://github.com/jaydattpatel/HTML-CSS-JavaScript-with-Bootstrap'>
-      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/de34147e-f591-44be-bea2-de2a2783c0ee" width="50" height="50">
-      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/d2b5bb9a-c6fe-4641-b2c7-d8e666ea9d31" width="50" height="50">
+      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/de34147e-f591-44be-bea2-de2a2783c0ee" width="75" height="75">
+      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/d2b5bb9a-c6fe-4641-b2c7-d8e666ea9d31" width="75" height="75">
     </a> 
     <a href='https://github.com/jaydattpatel/JavaScript'>
-      <img src="https://github.com/jaydattpatel/HTML-CSS-JavaScript-with-Bootstrap/assets/124486498/157fdd1f-3a80-46d8-a6c7-81ae553c3f9c" width="50" height="50">
+      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/a960c773-a4ec-4034-8296-c239713d2add" width="75" height="75">
     </a>  
     <a href='https://github.com/jaydattpatel/Python-Programming'>
-      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/f2fc6aef-394d-4b96-ab24-94b595b3c37c" width="50" height="50">
+      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/f2fc6aef-394d-4b96-ab24-94b595b3c37c" width="75" height="75">
     </a> 
     <a href='https://github.com/jaydattpatel/PL-SQL-DBMS'>
-      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/7e4dc330-e729-4117-88ed-6df0016d2691" width="50" height="50">
+      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/7e4dc330-e729-4117-88ed-6df0016d2691" width="75" height="75">
     </a> 
     <a href="https://github.com/jaydattpatel/Linux-commands-and-Shell-Scripts">
-      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/05f11946-fc0b-4d45-a772-5133076c9af9" width="50" height="50">
+      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/05f11946-fc0b-4d45-a772-5133076c9af9" width="75" height="75">
     </a> 
     <a href="https://github.com/jaydattpatel/Java-Programs">
-      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/1739c711-386e-45fb-990a-1cd1684cf8c3" width="50" height="50">
+      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/1739c711-386e-45fb-990a-1cd1684cf8c3" width="75" height="75">
     </a> 
     <a href="https://github.com/jaydattpatel/CPP-Programs-with-DSA">
-      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/56ea290f-362e-4061-b920-e0445481072e" width="50" height="50">
+      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/56ea290f-362e-4061-b920-e0445481072e" width="75" height="75">
     </a> 
     <a href="https://github.com/jaydattpatel/C-Programs">
-      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/eed31d27-148a-4f37-aacb-e0d41f74c433" width="50" height="50">
+      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/eed31d27-148a-4f37-aacb-e0d41f74c433" width="75" height="75">
     </a>
   </div>
 
