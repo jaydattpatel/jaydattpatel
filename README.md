@@ -13,12 +13,6 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=jaydattpatel%2Fjaydattpatel&label=Visitors&countColor=%2337d67a" alt="Visitor badge" width="100" height="28"/>
 </div>
 
-<style>
-  #repoLinks a{
-    margin: 3px;
-  }
-</style>
-
   <div id="repoLinks" align="center">
     <a href='https://github.com/jaydattpatel/HTML-CSS-JavaScript-with-Bootstrap'>
       <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/de34147e-f591-44be-bea2-de2a2783c0ee" width="75" height="75">
