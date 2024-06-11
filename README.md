@@ -24,14 +24,14 @@
     <a href='https://github.com/jaydattpatel/Python-Programming'>
       <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/f2fc6aef-394d-4b96-ab24-94b595b3c37c" width="75" height="75">
     </a> 
+    <a href="https://github.com/jaydattpatel/Java-Programs">
+      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/1739c711-386e-45fb-990a-1cd1684cf8c3" width="75" height="75">
+    </a> 
     <a href='https://github.com/jaydattpatel/PL-SQL-DBMS'>
       <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/7e4dc330-e729-4117-88ed-6df0016d2691" width="75" height="75">
     </a> 
     <a href="https://github.com/jaydattpatel/Linux-commands-and-Shell-Scripts">
       <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/05f11946-fc0b-4d45-a772-5133076c9af9" width="75" height="75">
-    </a> 
-    <a href="https://github.com/jaydattpatel/Java-Programs">
-      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/1739c711-386e-45fb-990a-1cd1684cf8c3" width="75" height="75">
     </a> 
     <a href="https://github.com/jaydattpatel/CPP-Programs-with-DSA">
       <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/56ea290f-362e-4061-b920-e0445481072e" width="75" height="75">
