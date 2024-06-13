@@ -21,6 +21,9 @@
     <a href='https://github.com/jaydattpatel/JavaScript'>
       <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/a960c773-a4ec-4034-8296-c239713d2add" width="75" height="75">
     </a>  
+    <a href='https://github.com/jaydattpatel/Git-Commands'>
+      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/a6740bbc-e7d0-4b50-a434-53e790fad198" width="75" height="75">
+    </a> 
     <a href='https://github.com/jaydattpatel/Python-Programming'>
       <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/f2fc6aef-394d-4b96-ab24-94b595b3c37c" width="75" height="75">
     </a> 
