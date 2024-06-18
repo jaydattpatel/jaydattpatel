@@ -36,6 +36,9 @@
     <a href="https://github.com/jaydattpatel/Linux-commands-and-Shell-Scripts">
       <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/05f11946-fc0b-4d45-a772-5133076c9af9" width="75" height="75">
     </a> 
+    <a href="https://github.com/jaydattpatel/Visual-Basic-.Net">
+      <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/04dcfbdb-c7e2-4966-b061-e8ef46ebf793" width="75" height="75">
+    </a> 
     <a href="https://github.com/jaydattpatel/CPP-Programs-with-DSA">
       <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/56ea290f-362e-4061-b920-e0445481072e" width="75" height="75">
     </a> 
