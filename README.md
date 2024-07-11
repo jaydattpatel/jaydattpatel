@@ -1,5 +1,5 @@
 <div id="header" align="center">
-          <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydattpatel&langs_count=20&hide=Jupyter%20Notebook&exclude_repo=Python-3-Programming-Coursera-University-of-Michigan,Python-Project-pillow-tesseract-and-opencv-coursera&layout=compact&theme=monokai&count_private=true" width="500">
+          <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydattpatel&langs_count=20&hide=Jupyter%20Notebook&exclude_repo=Python-3-Programming-Coursera-University-of-Michigan,Python-Project-pillow-tesseract-and-opencv-coursera&layout=compact&theme=monokai&count_private=true" width="400">
 </div>
 
 <div id="badges" align="center">
