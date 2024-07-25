@@ -1,5 +1,5 @@
 <div id="header" align="center">
-          <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydattpatel&langs_count=20&hide=Jupyter%20Notebook&exclude_repo=Python-3-Programming-Coursera-University-of-Michigan,Python-Project-pillow-tesseract-and-opencv-coursera&layout=compact&theme=monokai&count_private=true" width="400">
+          <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydattpatel&langs_count=20&layout=compact&theme=highcontrast&count_private=true&hide=Jupyter%20Notebook&exclude_repo=Python-3-Programming-Coursera-University-of-Michigan,Python-Project-pillow-tesseract-and-opencv-coursera" width="350">
 </div>
 
 <div id="badges" align="center">
@@ -9,7 +9,7 @@
   <a href="https://gist.github.com/jaydattpatel">
     <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/33b65b12-f794-4eb1-a939-a5d8f02f91d7/gist.png" width="100" alt="Gits GitHub"/>
   </a>
-  <img src="https://api.visitorbadge.io/api/visitors?path=jaydattpatel%2Fjaydattpatel&label=Visitors&countColor=%2337d67a" alt="Visitor badge" width="100" height="28"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=jaydattpatel%2Fjaydattpatel&label=Visitors&countColor=%23263759" alt="Visitor badge" width="100" height="28"/>
 </div>
 
   <div id="repoLinks" align="center">
