@@ -17,94 +17,13 @@
   Hi, I'm Jaydatt Patel ...
   <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/f638a46c-4b87-4316-88fc-b573dfe1f926" width="50px"/>
 </h1>
-    <div id="repoLinks" align="center">
-      <a href="https://github.com/jaydattpatel/MERN-Full-Stack-Web-Development">
+    <p align="center">
+      <a href="">
         <img
-          src="https://github.com/user-attachments/assets/315455e8-84af-4460-ad22-e05d48cd98cd"
-          width="70"
+          src="https://skillicons.dev/icons?i=vscode,react,babel,redux,webpack,nodejs,npm,express,mongodb,postman,github,git,html,css,js,bootstrap,jquery,py,aws,java,linux,bash"
         />
       </a>
-      <a href="https://github.com/jaydattpatel/MERN-Full-Stack-Web-Development">
-        <img
-          src="https://github.com/user-attachments/assets/31d75fdf-f0a9-47c7-b160-4c7a5a47c74f"
-          width="70"
-        />
-      </a>
-      <a href="https://github.com/jaydattpatel/MERN-Full-Stack-Web-Development">
-        <img
-          src="https://github.com/user-attachments/assets/ab7c4e45-d50b-448e-839c-c3ffe32725d0"
-          width="70"
-        />
-      </a>
-      <a href="https://github.com/jaydattpatel/MERN-Full-Stack-Web-Development">
-        <img
-          src="https://github.com/user-attachments/assets/179b4a02-47ce-484d-9556-02168538874d"
-          width="70"
-        />
-      </a>
-      <a href="https://github.com/jaydattpatel/MERN-Full-Stack-Web-Development">
-        <img
-          src="https://github.com/user-attachments/assets/75b08fe3-74a6-4281-8203-d38e3bcf144a"
-          width="70"
-        />
-      </a>
-      <a href="https://github.com/jaydattpatel/MERN-Full-Stack-Web-Development">
-        <img
-          src="https://github.com/user-attachments/assets/ac76dadf-c85c-4a20-b05e-1ac0a0331b65"
-          width="70"
-        />
-      </a>
-      <a href="https://github.com/jaydattpatel/JavaScript">
-        <img
-          src="https://github.com/user-attachments/assets/d38a437a-21a9-406f-bce5-9432f222658c"
-          width="70"
-        />
-      </a>
-      <a href="https://github.com/jaydattpatel/Git-Commands">
-        <img
-          src="https://github.com/user-attachments/assets/675df6de-4e2c-4abe-a3bd-8a90bf8a97b3"
-          width="70"
-        />
-      </a>
-      <a href="https://github.com/jaydattpatel/Python-Programming">
-        <img
-          src="https://github.com/user-attachments/assets/bd34f38d-2b1e-4504-bba9-0bf30a3fc7a0"
-          width="70"
-        />
-      </a>
-      <a href="https://github.com/jaydattpatel/Java-Programs">
-        <img
-          src="https://github.com/user-attachments/assets/17bc42af-7d2e-4c28-a70b-f3134c435ae5"
-          width="70"
-        />
-      </a>
-      <a href="https://github.com/jaydattpatel/PL-SQL-DBMS">
-        <img
-          src="https://github.com/user-attachments/assets/8c6e4200-b6cd-43d9-93fa-5c71e53b2282"
-          width="70"
-        />
-      </a>
-      <a
-        href="https://github.com/jaydattpatel/Linux-commands-and-Shell-Scripts"
-      >
-        <img
-          src="https://github.com/user-attachments/assets/836d8879-c8ff-45a7-9cc2-f5bf831d6c7d"
-          width="70"
-        />
-      </a>
-      <a href="https://github.com/jaydattpatel/CPP-Programs-with-DSA">
-        <img
-          src="https://github.com/user-attachments/assets/a3200b5b-7965-4c92-a2fc-7fc39d77a538"
-          width="70"
-        />
-      </a>
-      <a href="https://github.com/jaydattpatel/C-Programs">
-        <img
-          src="https://github.com/user-attachments/assets/bdcaa587-f633-463d-ab7f-bfe08c1d7d7b"
-          width="70"
-        />
-      </a>
-    </div>
+    </p>
 
 
 <!--
