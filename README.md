@@ -18,7 +18,7 @@
   <img src="https://github.com/jaydattpatel/jaydattpatel/assets/124486498/f638a46c-4b87-4316-88fc-b573dfe1f926" width="50px"/>
 </h1>
     <p align="center">
-      <a href="">
+      <a href="#">
         <img
           src="https://skillicons.dev/icons?i=vscode,react,babel,redux,webpack,nodejs,npm,express,mongodb,postman,github,git,html,css,js,bootstrap,jquery,py,aws,java,linux,bash"
         />
